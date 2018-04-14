@@ -2,7 +2,7 @@
 
 ### Overview
 
-- Game is written in ***C++***, playable from console.
+- Game is written in **C++** , playable from console.
 
 - ASCII char is used for graphics.
 
