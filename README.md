@@ -1,6 +1,30 @@
 # catch-if-youcan
-Self Project on simple console playable game in C++
 
-This is a game(catch-if-youcan)playable from console ,written in c++ language.ASCII char is used for all graphics like boundaries and wall to divide road and very helpful for beginners to understand code.Four player can play at time and steps to move forward  are decided by throwing dice to judge your luck.This version is only for windows users.
+### Overview
 
-Technology used :- C++ language
+- Game is written in ***C++***, playable from console.
+
+- ASCII char is used for graphics.
+
+- There are 4 players, one is user and 3 are computer.
+
+- Each player are chasing each other to beat in a fixed boundary.
+
+-  How many steps player will move, is decided by throwing dice.
+
+- Player will be out of the game or win the game is just similar to ludo game.
+
+### Specifications
+
+- There are stop points in game, on which player can not be beaten.
+
+- Once player will enter its territory, it can not be further chased.
+
+### Game Screen
+
+![](https://github.com/009shanshukla/catch-if-youcan/blob/master/game.png)
+
+
+
+
+
